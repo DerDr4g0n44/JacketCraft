@@ -1,11 +1,11 @@
-package org.CodeCentre.Jacket.network;
+package org.JacketCraft.Jacket.network;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 
-import org.CodeCentre.Jacket.Main;
+import org.JacketCraft.Jacket.Main;
 public class PacketListenerRunnable implements Runnable {
 	private static DatagramSocket socket;
 	public PacketListenerRunnable(DatagramSocket sock) {

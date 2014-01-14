@@ -1,12 +1,12 @@
-package org.CodeCentre.Jacket;
+package org.JacketCraft.Jacket;
 
 import java.io.IOException;
 import java.net.DatagramSocket;
 import java.util.HashMap;
 import java.util.Random;
 
-import org.CodeCentre.Jacket.network.PacketListenerRunnable;
-import org.CodeCentre.Jacket.utils.ByteUtils;
+import org.JacketCraft.Jacket.network.PacketListenerRunnable;
+import org.JacketCraft.Jacket.utils.ByteUtils;
 
 public class Server {
 	private static Thread pt;

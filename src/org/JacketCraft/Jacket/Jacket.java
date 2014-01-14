@@ -1,4 +1,4 @@
-package org.CodeCentre.Jacket;
+package org.JacketCraft.Jacket;
 
 public final class Jacket {
 	private static Server server;

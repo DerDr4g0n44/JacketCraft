@@ -1,6 +1,6 @@
-package org.CodeCentre.Jacket.network;
+package org.JacketCraft.Jacket.network;
 
-import static org.CodeCentre.Jacket.PacketType.*;
+import static org.JacketCraft.Jacket.PacketType.*;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
@@ -11,7 +11,7 @@ import java.net.DatagramPacket;
 import java.net.InetAddress;
 import java.util.Random;
 
-import org.CodeCentre.Jacket.Jacket;
+import org.JacketCraft.Jacket.Jacket;
 
 public class PacketHandler {
 	private static byte[] current;

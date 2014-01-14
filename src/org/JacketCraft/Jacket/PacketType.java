@@ -1,4 +1,4 @@
-package org.CodeCentre.Jacket;
+package org.JacketCraft.Jacket;
 
 public class PacketType {
 	public static final byte ID_CONNECTED_PING_OPEN_CONNECTIONS = 0x01;

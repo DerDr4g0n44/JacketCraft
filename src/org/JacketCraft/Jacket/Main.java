@@ -1,4 +1,4 @@
-package org.CodeCentre.Jacket;
+package org.JacketCraft.Jacket;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

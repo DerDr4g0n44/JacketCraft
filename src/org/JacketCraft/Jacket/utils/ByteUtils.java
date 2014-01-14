@@ -1,4 +1,4 @@
-package org.CodeCentre.Jacket.utils;
+package org.JacketCraft.Jacket.utils;
 
 import java.nio.ByteBuffer;
 
