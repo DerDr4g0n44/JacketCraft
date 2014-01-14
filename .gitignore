@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 /bin
 /plugins
 /.classpath
 /.project
 /server.properties
+=======
+/JacketCraft/nbproject/private/
+>>>>>>> branch 'master' of ssh://git@github.com/JacketCraft/JacketCraft.git
